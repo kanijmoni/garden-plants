@@ -1,0 +1,62 @@
+[
+    {
+        "id": "623e82b5ecc0217f65e0beae",
+        "img": "https://ibb.co/tCBg3JT",
+        "price": 1000,
+        "name": "Adenium"
+    },
+    {
+        "id": "623e82b5e175178f991704cc",
+        "img": "https://ibb.co/X5ZQGwZ",
+        "price": 100,
+        "name": "Aloe-vera"
+    },
+    {
+        "id": "623e82b533c22b83bdbf46df",
+        "img": "https://ibb.co/ScbQpbs",
+        "price": 200,
+        "name": "Chinese-Ixora"
+    },
+    {
+        "id": "623e82b54bb998f65f71359b",
+        "img": "https://ibb.co/23tHqJx",
+        "price": 200,
+        "name": "Heart-of-Jesus"
+    },
+    {
+        "id": "623e82b520220f1edf5d9ed4",
+        "img": "https://ibb.co/1rt4ppx",
+        "price": 200,
+        "name": "Ixora"
+    },
+    {
+        "id": "623e82b50229c13550d3a6e1",
+        "img": "https://ibb.co/vXRVq8z",
+        "price": 150,
+        "name": "Peacock-Plant"
+    },
+    {
+        "id": "623e82b5fbbbf1d47f6bb59c",
+        "img": "https://ibb.co/qrJdtV1",
+        "price": 270,
+        "name": "Plantain-Lili"
+    },
+    {
+        "id": "623e82b509fd2c8f325ec60d",
+        "img": "https://ibb.co/10dWq7j",
+        "price": 100,
+        "name": "Plumeria-Alba"
+    },
+    {
+        "id": "623e82b5fdcd6443fc61c764",
+        "img": "https://ibb.co/4j4ksdp",
+        "price": 100,
+        "name": "Purpel-Heart"
+    },
+    {
+        "id": "623e82b5f4c72e75d03602e6",
+        "img": "https://ibb.co/6XQ9fzG",
+        "price": 300,
+        "name": "Red-Pink-Canna"
+    }
+]
