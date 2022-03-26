@@ -30,8 +30,11 @@ const Shop = () => {
             <div className="cart-container">
                 <h3>Selected Plants</h3>
                 <p>Selected plants:{cart.length}</p>
+                <div className='choose-btn'>
+                    <button>Choose 1 for me</button>
+                    <button>Choose again</button>
+                </div>
             </div>
-
         </div>
     );
 };
